@@ -1,3 +1,30 @@
+.header {
+    background: #fff;
+}
+
+.header__inner {
+    width: 1512px;
+    height: 0px;
+    top: 100px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px 0px 0px 0px solid #E0DFDE
+}
+
+.header__logo {
+
+    height: 100px;
+
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inika;
+    font-size: 40px;
+    font-weight: 400;
+
+    text-align: center;
+    color: #8B7969;
+}
+
 .contact-form__content {
     margin: 0 auto;
     padding: 30px 15px;
@@ -338,6 +365,7 @@
 
 .form__button {
     margin: 10px auto;
+    text-align: center;
 }
 
 .form__button-submit {
