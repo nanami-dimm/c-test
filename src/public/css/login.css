@@ -1,0 +1,122 @@
+.header {
+    background: #fff;
+
+}
+
+.header__inner {
+    width: 1512px;
+    height: 30px;
+
+    text-align: center;
+}
+
+.header__logo {
+    width: 1509.01px;
+    height: 100px;
+
+    font-family: Inika;
+    text-align: center;
+    font-size: 50px;
+    color: #8B7969;
+}
+.register__button {
+    
+    height: 34px;
+    top: 33px;
+    left: 1316px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    
+    border: 1px  #D9C6B5;
+}
+
+.register__button-submit {
+    
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: center;
+    color: #D9C6B5;
+}
+
+.background {
+    background: #C5B9B0;
+}
+.login__content {
+    
+    border-radius: 10px;
+    margin: 70px;
+    padding:
+    30px; background:#FFFFFF;
+    border: 1px solid #C5B9B0;
+    height: 600px;
+}
+
+.login-form__heading {
+   
+    font-family: Inika;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+    color: #8B7969;
+}
+
+.form__label--item {
+    font-family: Inika;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    width: 75px;
+    height: 10px;
+
+    color: #8B7969;
+}
+
+.form__input--text input {
+    width: 445px;
+    height: 55px;
+    top: 47px;
+    
+    margin: 20px auto;
+    background: #F4F4F4;
+}
+
+::placeholder {
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    color: #BEB1A6;
+}
+
+.form__button button {
+    background: #82756A;
+    width: Hug (160px)px;
+    height: Hug (46px)px;
+    
+    text-align: center;
+    gap: 10px;
+    margin: 20px auto;
+    
+}
+
+.form__button-submit {
+    margin: auto;
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.form__error {
+
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}

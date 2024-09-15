@@ -18,6 +18,7 @@
 </header>
 
     <main>
+      <div class="background">
         <div class="register__content">
             <div class="registe-form__heading">
                 <p>Register</p>
@@ -76,6 +77,7 @@
     </div>
   </form>
   
+</div>
 </div>
 </main>
 </body>

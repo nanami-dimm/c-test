@@ -1,0 +1,182 @@
+.header {
+    background: #fff;
+
+}
+
+.header__inner {
+    width: 1512px;
+    height: 30px;
+
+    text-align: center;
+}
+
+.header__logo {
+    width: 1509.01px;
+    height: 100px;
+
+    font-family: Inika;
+    text-align: center;
+    font-size: 50px;
+    color: #8B7969;
+}
+
+.logout__button button{
+    
+    height: 34px;
+    top: 40px;
+    left: 1317px;
+    
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #F0F0F099;
+    border: 1px solid #D9C6B5;
+}
+
+.logout__button-submit {
+font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: center;
+    color: #D9C6B5;
+}
+
+.admin-form__heading {
+font-family: Inika;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    color: #8B7969;
+}
+.search-form__item-input {
+    width: 347.47px;
+        height: 50px;
+        top: 215px;
+        left: 164px;
+        border: 1px 0px 0px 0px;
+        color: #FBFBFB;
+        border: 1px solid #E3DED9
+}
+
+::placeholder {
+    font-family: Inika;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20.85px;
+        text-align: left;
+        color: #BEB1A6;
+}
+
+.search-form__item-detail {
+    width: 102.48px;
+        height: 50px;
+        top: 215px;
+        left: 542.9px;
+        
+        border: 1px 0px 0px 0px;
+        border: 1px solid #E3DED9;
+
+}
+
+.search-form__item-detail option {
+    font-family: Inika;
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 22.15px;
+        text-align: center;
+        color: #8B7969;
+}
+
+.search-form__button button{
+width: 102.48px;
+    height: 50px;
+    
+    left: 1112px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #8B7969;
+    background: #82756A;
+
+}
+
+.search-form__button-submit {
+    font-family: Inika;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23.45px;
+        text-align: center;
+        color: #FFFFFF;
+}
+
+.reset-form__button button {
+    width: 102.48px;
+        height: 50px;
+        top: 215px;
+        left: 1245.52px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        border: 1px solid #D9C6B5;
+        background:#D9C6B5;
+}
+
+.reset-form__button-submit {
+    font-family: Inika;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23.45px;
+        text-align: center;
+        color: #FFFFFF;
+}
+.admin-table {
+    width: 1183px;
+        height: 570px;
+        top: 364px;
+        left: 163px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    border: 1px solid #E0DFDE
+}
+
+.admin-table__row {
+    border: 1px solid #E0DFDE;
+
+}
+
+.admin-table__header {
+    width: 1183px;
+        height: 59px;
+        top: 364px;
+        left: 164px;
+        gap: 0px;
+        opacity: 0px;
+    background: #8B7969;
+}
+.admin-table__header span {
+    color: #FFFFFF;
+    font-family: Inika;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 26.06px;
+        text-align: left;
+}
+.detail-form__buttonn button{
+    width: Hug (76px)px;
+        height: Hug (39px)px;
+        margin: 10px auto;
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border: 1px 0px 0px 0px;
+        
+        border: 1px solid #D9C6B599;
+        background:#F4F4F44D;
+}
+
+.detail-form__button-submit {
+    font-family: Inika;
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        color: #D9C6B5;
+}

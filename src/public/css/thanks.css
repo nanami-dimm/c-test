@@ -1,3 +1,24 @@
+.header {
+    background: #fff;
+
+}
+
+.header__inner {
+    width: 1512px;
+    height: 30px;
+
+    text-align: center;
+}
+
+.header__logo {
+    width: 1509.01px;
+    height: 100px;
+
+    font-family: Inika;
+    text-align: center;
+    font-size: 50px;
+    color: #8B7969;
+}
 .thanks__heading {
     width: 1381px;
     height: 365px;

@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\RegisterController;
+
+use App\Http\Controllers\LoginController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,3 +24,6 @@ Route::post('/confirm', [ContactController::class, 'confirm']);
 
 Route::post('/thanks', [ContactController::class, 'store']);
 
+Route::post('/register', [RegisterController::class, 'confirm']);
+
+Route::post('/login', [LoginController::class, 'confirm']);

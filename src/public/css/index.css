@@ -1,27 +1,22 @@
 .header {
     background: #fff;
+
 }
 
 .header__inner {
     width: 1512px;
-    height: 0px;
-    top: 100px;
-    gap: 0px;
-    opacity: 0px;
-    border: 1px 0px 0px 0px solid #E0DFDE
+    height: 30px;
+
+    text-align: center;
 }
 
 .header__logo {
-
+    width: 1509.01px;
     height: 100px;
 
-    gap: 0px;
-    opacity: 0px;
     font-family: Inika;
-    font-size: 40px;
-    font-weight: 400;
-
     text-align: center;
+    font-size: 50px;
     color: #8B7969;
 }
 
@@ -29,14 +24,12 @@
     margin: 0 auto;
     padding: 30px 15px;
     max-width: 1230px;
+    text-align:center;
+    
 }
 
 .contact-form__heading {
-    width: 121px;
-    height: 46px;
-    top: 150px;
-    left: 694px;
-    gap: 0px;
+    
 
     font-family: Inika;
     font-size: 35px;
@@ -96,14 +89,7 @@
     gap: 0px;
     opacity: 0px;
     background: #F4F4F4;
-}
-
-.form__input--text-left input {
-    left: 656.89px;
-}
-
-.form__input--text-right input {
-    left: 954.78px;
+    display: flex;
 }
 
 .form__label--item-gender {
@@ -145,10 +131,9 @@
 .form__group-content-mail {
     width: 618.82px;
     height: 38px;
-    top: 374px;
+    
     left: 621.57px;
-    gap: 0px;
-    opacity: 0px;
+    
     color: #F4F4F4;
 }
 
@@ -342,13 +327,10 @@
     width: 279.47px;
     height: 26px;
     top: 732px;
-    left: 282.22px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Inika;
     font-size: 20px;
     font-weight: 400;
-    line-height: 26.06px;
+   
     text-align: left;
     color: #8B7969;
 }
@@ -356,10 +338,7 @@
 .form__input--textarea-detail textarea {
     width: 618.82px;
     height: 129px;
-    top: 724px;
-    left: 626.18px;
-    gap: 0px;
-    opacity: 0px;
+    margin: 20px auto;
     background: #F4F4F4;
 }
 
